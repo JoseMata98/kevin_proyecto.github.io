@@ -1,0 +1,154 @@
+body{
+    font-family: 'Dosis', sans-serif;
+}
+
+header{
+    background-color: #b7d0e1;
+    padding: 0 744px;
+}
+
+.caja{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.banner{
+    width: auto;
+}
+
+h2{
+    font-family: 'Belanosima', sans-serif;
+    font-size: 75px;
+    padding: 10px;
+    margin-top: 20px;
+    text-align: center;
+    color: #34495E;
+}
+
+h3{
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+    padding: 10px;
+    margin: 0 auto;
+    margin-top: 25px;
+    font-style: italic;
+}
+
+.quienes{
+    padding: 1em 0;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.quienes p{
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 10px;
+    margin: 0 0 1em;
+    text-align: justify;
+    margin-top: 25px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.estres{
+    width: 240px;
+    float: right;
+    margin: 0 50px 20px 50px;
+}
+
+.mision{
+    padding: 1em 0;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.imagenmision{
+    width: 240px;
+    float: left;
+    margin: 0 50px 20px 50px;
+}
+
+.mision p{
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 10px;
+    margin: 0 0 1em;
+    text-align: justify;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.vision{
+    padding: 1em 0;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+h4{
+    font-family: 'Yeseva One', cursive;
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+    padding: 0;
+    margin: 0 auto;
+    margin-top: 25px;
+    font-style: italic;
+}
+
+.nivelestres{
+    width: 340px;
+    float: right;
+    margin: 0 50px 20px 50px;
+}
+
+.vision p{
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 10px;
+    margin: 0 0 1em;
+    text-align: justify;
+    margin-top: 55px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+}
+
+.valores{
+    padding: 1em 0;
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.imagen-valores{
+    width: 240px;
+    float: left;
+    margin: 35px 50px 20px 50px;
+}
+
+.lista-valores{
+    font-family: 'Nunito Sans', sans-serif;
+    padding: 10px;
+    width: 65%;
+    display: inline-block;
+    vertical-align: top;
+    text-align: justify;
+}
+
+.items{
+    line-height: 1.5;
+    margin: 8px;
+}
+
+.items::before{
+    content: "🟍";
+}
+
+.copyrigth{
+    font-size: 13px;
+    margin: 20px;
+    text-align: center;
+}
